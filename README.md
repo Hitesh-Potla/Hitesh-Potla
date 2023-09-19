@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://images.app.goo.gl/xtc1Fi1Ahp6YUKfx8" />
 <h1 align="center">Hi 👋, I'm Hitesh Potla</h1>
 <h3 align="center">Data Science Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hitesh-Potla&label=Profile%20views&color=0e75b6&style=flat" alt="Hitesh-Potla" /> </p>
